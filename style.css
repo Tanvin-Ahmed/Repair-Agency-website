@@ -25,6 +25,19 @@ button{
     font-size: 21px;
     font-weight: 600;
 }
+
+/* translate language */
+.translated-ltr{margin-top:-40px;}
+.translated-ltr{margin-top:-40px;}
+.goog-te-banner-frame {display: none;margin-top:-20px;}
+
+.goog-logo-link {
+   display:none !important;
+} 
+
+.goog-te-gadget{
+   color: transparent !important;
+}
 /* header title */
 .header-title{
     display: flex;
@@ -62,9 +75,6 @@ nav #link a{
     -moz-transition: all 0.5s;
     -ms-transition: all 0.5s;
     -o-transition: all 0.5s;
-}
-nav #link a:hover {
-    border-bottom: 2px solid white;
 }
 /* cover */
 .cover{

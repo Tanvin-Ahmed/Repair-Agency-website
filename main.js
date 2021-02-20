@@ -1,0 +1,1 @@
+$('.num').counterUp({delay: 50, time: 1000});
